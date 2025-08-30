@@ -1,3 +1,2 @@
-Th  is is 1.txt
-I am changed now
-Ui
+Th  is is '1.txt'
+I am Changed now
